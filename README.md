@@ -1,4 +1,4 @@
-# Parabolic-Calculator
+# The Multiplying Parabola
 
 A classroom activity about multiplying numbers using the y = x² parabola!
 
